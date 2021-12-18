@@ -7,7 +7,7 @@ WHAT DOES IT DO
 
    - Bot will send a message when a User Join's
 
-     Note that you have to specify your Welcome-ChannelID in the Code
+     Note that you have to specify your Welcome-Channel ID in the Code
 
    - Enable Intents
     
@@ -17,7 +17,7 @@ WHAT DOES IT DO
 
    - Join Our Discord Community
 
-     Join our Community via the link Below;
+     Join our Community via the link;
      https://discord.gg/FTmrYbEN8w
 
  * This code is Free to be Copied/modified and used in your Discord Server's.
